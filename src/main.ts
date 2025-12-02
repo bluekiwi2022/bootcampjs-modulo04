@@ -1,4 +1,3 @@
-let contador = 0;
 let turno = 1;
 
 const btnAddTurno = document.getElementById("siguiente");
